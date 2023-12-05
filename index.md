@@ -20,14 +20,14 @@ Software Developer | Data Analyst
 
 ## Experience
 ### Project Manager – Data Science Team (Present)
-**BYU-I Support Center**
+- **BYU-I Support Center**
 - Lead a team of 3 data analysts in automating Power BI processes, streamlining project implementation, and reducing manual tasks.
 - Initiated and managed projects to optimize DAX measures, resulting in a significant increase in data analysis efficiency and making reports more user-friendly.
 - Documented critical data and generated integral reports to support data-driven decision-making, ensuring accurate and accessible information.
 - Mentored and guided team members, helping them develop and contributing to a productive and unified team.
 
 ### Data Analyst
-**BYU-I Support Center**
+- **BYU-I Support Center**
 - Developed and improved processes for agents at the support center, enhancing efficiency and service quality.
 - Created new Power BI reports and maintained existing ones, enabling team leads and directors to make data-driven decisions for improved support center operations.
 - Optimized DAX Measures for better performance and readability, streamlining workflow for the entire data analyst team.
@@ -36,7 +36,7 @@ Software Developer | Data Analyst
 - Implemented automation processes between data sources and Power BI dashboards using Python, enhancing data integration and visualization capabilities.
 
 ### Backend Developer
-**Magnify**
+- **Magnify**
 - Worked extensively with the Django framework to maintain and enhance the existing API.
 - Designed and developed new endpoints and services using Django REST framework.
 - Conducted thorough testing of API functionality using Postman.
@@ -46,7 +46,7 @@ Software Developer | Data Analyst
 - Introduced microservices architecture in a monolithic application.
 
 ## Education
-**Bachelor of Science in Computer Science**
+- **Bachelor of Science in Computer Science**
 - *Brigham Young University - Idaho*
 - GPA: 3.93
 - Recipient of full-tuition scholarship for Academic Excellence
