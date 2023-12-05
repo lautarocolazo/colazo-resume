@@ -1,60 +1,57 @@
-# md-resume
+---
+layout: resume
+title: Lautaro Colazo's Resume
+---
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+# Lautaro Colazo
+Software Developer | Data Analyst
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<div id="webaddress">
+<a href="mailto:lautarocolazo1@gmail.com">lautarocolazo1@gmail.com</a> |
+<a href="https://developedbylau.vercel.app">developedbylau.vercel.app</a> |
+<a href="https://github.com/lautarocolazo">github.com/lautarocolazo</a>
+</div>
 
-***
+## Skills
+- Python | Django | DRF | Celery | Go | Go Fiber | SQL | PostgreSQL | Firebase | JavaScript | TypeScript | HTML5 | CSS3 | Svelte & SvelteKit | React | Git
+- RESTful APIs development | Postman | CI/CD | Docker | Docker Compose | Linux | Unit Testing | OOP
+- Backend | Frontend | Full-Stack
+- English, Spanish – All professional proficiency or above
 
-## Customization
+## Experience
+### Project Manager – Data Science Team (Present)
+**BYU-I Support Center**
+- Lead a team of 3 data analysts in automating Power BI processes, streamlining project implementation, and reducing manual tasks.
+- Initiated and managed projects to optimize DAX measures, resulting in a significant increase in data analysis efficiency and making reports more user-friendly.
+- Documented critical data and generated integral reports to support data-driven decision-making, ensuring accurate and accessible information.
+- Mentored and guided team members, helping them develop and contributing to a productive and unified team.
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+### Data Analyst
+**BYU-I Support Center**
+- Developed and improved processes for agents at the support center, enhancing efficiency and service quality.
+- Created new Power BI reports and maintained existing ones, enabling team leads and directors to make data-driven decisions for improved support center operations.
+- Optimized DAX Measures for better performance and readability, streamlining workflow for the entire data analyst team.
+- Maintained forecasting software developed in Python using the NeuralProphet library, pandas, and numpy.
+- Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing.
+- Implemented automation processes between data sources and Power BI dashboards using Python, enhancing data integration and visualization capabilities.
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+### Backend Developer
+**Magnify**
+- Worked extensively with the Django framework to maintain and enhance the existing API.
+- Designed and developed new endpoints and services using Django REST framework.
+- Conducted thorough testing of API functionality using Postman.
+- Utilized SQL queries to analyze data from the PostgreSQL database.
+- Optimized code and Django ORM queries to significantly improve loading times, achieving up to 64% improvement.
+- Implemented Docker in the project, resulting in reduced onboarding time for new developers.
+- Introduced microservices architecture in a monolithic application.
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+## Education
+**Bachelor of Science in Computer Science**
+- *Brigham Young University - Idaho*
+- GPA: 3.93
+- Recipient of full-tuition scholarship for Academic Excellence
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
-
-## Distribution
-
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+## Certificates
+- **Working with Go and React (Udemy, 25-hour course):** Single Page Applications | React | REST APIs with Go | JWT Authentication | GraphQL
+- **REST API with Python & Django - Advanced (Udemy, 23-hour course):** REST API development | User authentication | Advanced Django ORM | Deploying with Docker | Test Driven Development
+- **Power BI Fundamentals (Skill track Datacamp, 17-hour certificate):** Exploratory Analysis | Microsoft Power BI | ETL | Data Analysis | Data Visualization | Data Modeling
